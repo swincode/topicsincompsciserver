@@ -12,9 +12,9 @@ The red LED is added to signify when the machine has received data and is workin
 - Electrolytic Capacitor 1nF
 
 ## Requirements
-This machine utilises the Adafruit Servo library that can be installed via the Arduino IDE.
+- [Arduino Library](https://www.arduino.cc/reference/en/)
+- [Arduino Servo Library](https://www.arduino.cc/reference/en/libraries/servo/) that can be installed via the Arduino IDE.
 ```Tools -> Manage Libraries -> Servo v1.1.6```
-[Reference Manual](https://www.arduino.cc/reference/en/libraries/servo/)
 
 
 ## Wiring Diagram
