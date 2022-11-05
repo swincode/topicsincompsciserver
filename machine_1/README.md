@@ -9,5 +9,8 @@ The red LED is activated when serial data is being procesed, and the green LED i
 - Green LED
 - 2x 220 Ohm resistors
 
+## Requirements
+- [Arduino Library](https://www.arduino.cc/reference/en/)
+
 ## Wiring Diagram
 ![](https://github.com/swincode/topicsincompsciserver/blob/main/machine_1/machine_1_diagram.png)
